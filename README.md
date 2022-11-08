@@ -5,10 +5,10 @@ We created a fun gallery and cool features of dog images. The primary feature is
 ![image](https://user-images.githubusercontent.com/104786237/200660850-62ce9cdc-7147-447c-b919-d32c821ddcab.png)
 ![image](https://user-images.githubusercontent.com/104786237/200660601-b768d323-b479-4fb0-8a46-375f8ecfd022.png)
 
-1. JavaScript and jQuery: We used the jQuery library and methods for our website because it makes it easier to use JavaScript, which we used to create features like events and animations. 
-2. Events: We used an event called mouseover. The dogs transform to evil mode when you hover over a specific place on our webpage.
-3. Animations: We used animations to make the page look visually intense in evil mode – switching out images, flashing the background and thumbnails.
-4. AJAX: We used the AJAX load() method to load an external file to the main page. If the load() method succeeded, it displays "Dog lovers' poem loaded successfully!" and if it fails, it displays an error message.
+1. JavaScript and jQuery: we used the jQuery library and methods for our website because it makes it easier to use JavaScript, which we used to create features like events and animations. 
+2. Events: we used an event called mouseover. The dogs transform to evil mode when you hover over a specific place on our webpage.
+3. Animations: we used animations to make the page look visually intense in evil mode – switching out images, flashing the background and thumbnails.
+4. AJAX: we used the AJAX load() method to load an external file to the main page. If the load() method succeeded, it displays "Dog lovers' poem loaded successfully!" and if it fails, it displays an error message.
 
 
 
